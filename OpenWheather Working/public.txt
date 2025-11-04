@@ -1,0 +1,4 @@
+Connect to EC2 ssh -i "dependency.pem" ec2-user@ec2-18-232-131-159.compute-1.amazonaws.com
+
+
+public dns openwheather EC2 instance:ec2-18-232-131-159.compute-1.amazonaws.com
